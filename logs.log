@@ -1,0 +1,86 @@
+Feb 19, 2019 12:47:27 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: find-all request--------------------------------------------------
+Feb 19, 2019 12:47:28 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: {"request":"{find-all}","response":"[{\"id\":3,\"category\":\"done\",\"name\":\"Sulagan\",\"complete\":false},{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":9,\"complete\":false},{\"id\":10,\"complete\":false},{\"id\":11,\"complete\":false},{\"id\":12,\"complete\":false},{\"id\":13,\"complete\":false},{\"id\":14,\"complete\":false},{\"id\":15,\"complete\":false},{\"id\":16,\"complete\":false},{\"id\":17,\"category\":\"New\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":18,\"complete\":false},{\"id\":19,\"complete\":false},{\"id\":20,\"complete\":false},{\"id\":21,\"complete\":false},{\"id\":22,\"complete\":false},{\"id\":23,\"complete\":false},{\"id\":24,\"complete\":false},{\"id\":25,\"complete\":false},{\"id\":26,\"complete\":false},{\"id\":27,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":28,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":29,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":30,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":31,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":32,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":33,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}]"}
+Feb 19, 2019 12:47:28 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 12:48:15 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 12:48:15 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 12:49:11 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 12:49:13 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:00:01 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:00:02 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:00:50 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: find-all request--------------------------------------------------
+Feb 19, 2019 1:00:50 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: {"request":"{find-all}","response":"[{\"id\":3,\"category\":\"done\",\"name\":\"Sulagan\",\"complete\":false},{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":9,\"complete\":false},{\"id\":10,\"complete\":false},{\"id\":11,\"complete\":false},{\"id\":12,\"complete\":false},{\"id\":13,\"complete\":false},{\"id\":14,\"complete\":false},{\"id\":15,\"complete\":false},{\"id\":16,\"complete\":false},{\"id\":17,\"category\":\"New\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":18,\"complete\":false},{\"id\":19,\"complete\":false},{\"id\":20,\"complete\":false},{\"id\":23,\"complete\":false},{\"id\":24,\"complete\":false},{\"id\":25,\"complete\":false},{\"id\":26,\"complete\":false},{\"id\":27,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":28,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":29,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":30,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":31,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":32,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":33,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}]"}
+Feb 19, 2019 1:00:50 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:01:06 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:01:06 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:02:00 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:02:00 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:02:21 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:02:21 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:04:43 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: find-all request--------------------------------------------------
+Feb 19, 2019 1:04:43 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: {"request":"{find-all}","response":"[{\"id\":3,\"category\":\"done\",\"name\":\"Sulagan\",\"complete\":false},{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":9,\"complete\":false},{\"id\":10,\"complete\":false},{\"id\":11,\"complete\":false},{\"id\":12,\"complete\":false},{\"id\":13,\"complete\":false},{\"id\":14,\"complete\":false},{\"id\":15,\"complete\":false},{\"id\":16,\"complete\":false},{\"id\":17,\"category\":\"New\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":18,\"complete\":false},{\"id\":19,\"complete\":false},{\"id\":20,\"complete\":false},{\"id\":23,\"complete\":false},{\"id\":24,\"complete\":false},{\"id\":25,\"complete\":false},{\"id\":26,\"complete\":false},{\"id\":27,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":28,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":29,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":30,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":31,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":32,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false},{\"id\":33,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}]"}
+Feb 19, 2019 1:04:43 AM com.example.tododemo.service.impl.TodoServiceImpl findAll
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:04:59 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:04:59 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:06:12 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:06:13 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:16:47 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:16:48 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: {"request":"{","response":"{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}"}
+Feb 19, 2019 1:16:48 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:17:04 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:17:04 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: {"request":"{","response":"false"}
+Feb 19, 2019 1:17:04 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:18:54 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:18:54 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: {"request":"{22","response":"false"}
+Feb 19, 2019 1:18:54 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:23:52 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:23:53 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: {"request":"20","response":"true"}
+Feb 19, 2019 1:23:53 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:24:12 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: delete request--------------------------------------------------
+Feb 19, 2019 1:24:12 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: {"request":"20","response":"false"}
+Feb 19, 2019 1:24:12 AM com.example.tododemo.service.impl.TodoServiceImpl delete
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
+Feb 19, 2019 1:24:26 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: update-item request--------------------------------------------------
+Feb 19, 2019 1:24:26 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: {"request":"{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}","response":"{\"id\":7,\"category\":\"Done\",\"name\":\"PradeepGupta\",\"complete\":false}"}
+Feb 19, 2019 1:24:26 AM com.example.tododemo.service.impl.TodoServiceImpl updateItem
+INFO: ------------------------REQUEST SUCCESSFULLY COMPLETED-------------------------------------
