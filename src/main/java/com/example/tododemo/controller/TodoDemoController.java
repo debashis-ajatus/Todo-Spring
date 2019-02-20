@@ -40,7 +40,7 @@ public class TodoDemoController {
     }
 
     @DeleteMapping(value = "/deleteTodo")
-    public boolean deleteTodo(@RequestParam("userid") Long userid) {
+    public boolean deleteTodo(@RequestParam("todoid") Long userid) {
         return todoService.delete(userid);
     }
 }
