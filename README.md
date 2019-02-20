@@ -52,7 +52,7 @@ Response:
 
 
 **Delete Todo**
-URL: http://localhost:8080/deleteTodo?userid=20
+URL: http://localhost:8080/deleteTodo?todoid=20
 Response:
   false
   
